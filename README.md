@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Enginner+and+Cloud+Engineer;Amazon+Web+Services;Docker;Kubernetes;Terraform;Grafana;Promenthus;AWS+Certified;IaC+Enthusiast;Problem+Solver&center=true&color=f75c7e&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Enginner;Amazon+Web+Services;Docker;Kubernetes;Terraform;Grafana;Promenthus;AWS+Certified;IaC+Enthusiast;Problem+Solver&center=true&color=f75c7e&width=500&height=50"></a>
   
 
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems and also enjoy designing and implementing efficient CI/CD pipeline that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
